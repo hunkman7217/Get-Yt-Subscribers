@@ -67,4 +67,4 @@ Subscribers-Mongo-Node-BoilerPlate
 
 **Start Server**
 
-. node src/index.js
+. npm start
