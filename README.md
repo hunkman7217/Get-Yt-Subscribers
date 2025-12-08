@@ -4,7 +4,7 @@ This project is a backend application built using Node.js, Express, and MongoDB,
 The application allows users to retrieve YouTube subscribers data from a MongoDB database via RESTful API endpoints. This project demonstrates practical backend 
 development skills, database operations, clean folder structure, error handling, and real-world server-side application design.
 
-**##🎯 Project Overview**
+**🎯 Project Overview**
 
 This Capstone Project aims to integrate core backend development concepts into a real-world application. It provides hands-on experience working with server creation, 
 database integration, API routing, environment configuration, and modular code architecture.
