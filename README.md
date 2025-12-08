@@ -17,13 +17,13 @@ The system enables:
 
 ##📍 API Endpoints
 
-_________________________________________________________________________________________
-Method	|   Endpoint	        |          Description                                    |
-________|_____________________|_________________________________________________________|
-GET	    |  /subscribers	      |  Returns an array of all subscribers                    |
-GET	    |  /subscribers/names	|  Returns an array with only name & subscribedChannel    |
-GET   	|  /subscribers/:id	  |  Returns subscriber by ID; returns 400 if ID is invalid |
-________|_____________________|_________________________________________________________|
+
+Method	              Endpoint	                  Description                                    
+
+GET	    |         /subscribers	      |  Returns an array of all subscribers                   
+GET	    |         /subscribers/names	|  Returns an array with only name & subscribedChannel    
+GET   	 |         /subscribers/:id	  |  Returns subscriber by ID; returns 400 if ID is invalid 
+
 
 
 ##📁 Project Structure
@@ -49,7 +49,7 @@ Subscribers-Mongo-Node-BoilerPlate
 . Mongodb Atlas
 . Node.js
 
-##🛠 Installation & Setup
+#🛠 Installation & Setup
 
 #Clone the repository
 
