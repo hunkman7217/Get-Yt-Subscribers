@@ -12,11 +12,11 @@ function App() {
     </div>
 
     <div className='line'>
-     <a href="http://localhost:3000/subscribers" target='_blank'>/subscribers</a>
+     <a href="https://get-yt-subscribers-1.onrender.com/subscribers" target='_blank'>/subscribers</a>
      </div>
      
    <div className='line'>
-      <a href="http://localhost:3000/subscribers/names" target='_blank'>/subscribers/names</a>
+      <a href="https://get-yt-subscribers-1.onrender.com/subscribers/names" target='_blank'>/subscribers/names</a>
      
      </div>
         <div className='line'>
@@ -24,7 +24,7 @@ function App() {
     <form action="" onSubmit={(e) => {
   e.preventDefault();
   const id = document.getElementById("inputID").value.trim();
-  window.location.href = `http://localhost:3000/subscribers/${id}`,"_blank";
+  window.location.href = `https://get-yt-subscribers-1.onrender.com/subscribers/${id}`,"_blank";
 }}>
        
       <input type="text" name="" id="inputID" placeholder='Enter Youre Unique ID...' />
