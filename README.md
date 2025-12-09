@@ -44,10 +44,10 @@ Subscribers-Mongo-Node-BoilerPlate
 
 # **📌 Tech Stack**
 
-. React + Vite
-. Express.js
-. Mongodb Atlas
-. Node.js
+- React + Vite ,
+- Express.js ,
+- Mongodb Atlas,
+- Node.js
 
 # **🛠 Installation & Setup**
 
